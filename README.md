@@ -1,7 +1,9 @@
 # ToDo App
 
 ## Description
-This is a simple ToDo application that allows users to add and delete tasks. The app is built using HTML, CSS, and JavaScript, and it provides a user-friendly interface to manage daily tasks efficiently.
+This simple ToDo application allows users to add and delete tasks. The app is built using HTML, CSS, and JavaScript, providing a user-friendly interface to manage daily tasks efficiently.
+
+**Direct link**: https://bit.ly/To--Do--App
 
 ## Features
 - Add new tasks
