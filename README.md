@@ -18,7 +18,7 @@ This simple ToDo application allows users to add and delete tasks. The app is bu
 ## How to Use
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/mradul-bansal/todo-app.git
    cd todo-app
 
 
